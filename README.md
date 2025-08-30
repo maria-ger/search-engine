@@ -25,3 +25,4 @@
 * stanza
 * torch
 * transformers
+Также требуется загрузить fasttext_rus (https://fasttext.cc/docs/en/pretrained-vectors.html)
