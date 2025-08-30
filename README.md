@@ -19,9 +19,9 @@
     расчет NDCG@10 для моделей E5 и LaBSE
 
 ## Используемые библиотеки python
-    * numpy
-    * wikipedia
-    * razdel
-    * stanza
-    * torch
-    * transformers
+* numpy
+* wikipedia
+* razdel
+* stanza
+* torch
+* transformers
